@@ -11,5 +11,5 @@ Alone we are smart, together we are brilliant.
 People/residents in the co-working space don't know who is here and what skills / businesses they have - if they did, more collaboration could be happening!
 
 
-# The Prize
+## The Prize
 Amazon vouchers for each member of the winning team.
