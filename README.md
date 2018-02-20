@@ -1,6 +1,6 @@
 # The Accelerate Places Challenge
 
-<img src='HackerNest-w-tnu-logo-2015.png' height="150" width="auto" />
+<img src='AP-Manchester-Logo-300px-120-px.gif' height="150" width="auto" />
 
 ## About Us
 At Accelerate Places, we believe that a business needs more than just a great building. 
