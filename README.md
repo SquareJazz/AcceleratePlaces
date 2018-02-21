@@ -13,6 +13,7 @@ Residents in the Manchester co-working space don't know who is here, what skills
 
 We want you to help us fix this.
 
+<img src='collaborate.png' height="150" width="auto" />
 
 ## The Prize
 Amazon vouchers for each member of the winning team.
