@@ -13,3 +13,5 @@ People/residents in the co-working space don't know who is here and what skills 
 
 ## The Prize
 Amazon vouchers for each member of the winning team.
+
+<img src='amazon-vouchers.jpg' height="150" width="auto" />
