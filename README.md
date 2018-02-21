@@ -9,7 +9,7 @@ As part of the UK’s leading venture builder, we have over 18 years experience 
 ## The Challenge
 Alone we are smart, together we are brilliant.
 
-Residents in the Manchester co-working space don't know who is here, what skills they have, or what services businesses offer - if they did, more collaboration could be happening!
+Residents in the Manchester co-working space don't know who is here, what skills they have, or what services businesses based here offer - if they did, more collaboration could be happening!
 
 We want you to help us fix this.
 
